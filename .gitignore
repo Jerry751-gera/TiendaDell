@@ -1,0 +1,4 @@
+echo /target > .gitignore
+echo *.log >> .gitignore
+echo *.class >> .gitignore
+echo .idea/ >> .gitignore
